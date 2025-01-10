@@ -20,8 +20,8 @@ This repository contains a Streamlit app that allows users to interact with a ch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MDalamin5/Search-Engine-LLM-with-multy-agents.git
-   cd Search-Engine-LLM-with-multy-agents
+   git clone https://github.com/MDalamin5/MultiAgent-Search-Bot-LLM.git
+   cd MultiAgent-Search-Bot-LLm
    ```
 
 2. Install the required Python packages:
